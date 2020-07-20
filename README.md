@@ -10,18 +10,19 @@ base notes for code
 Requirements
 Your site should exist at https://USERNAME.github.io/reading-notes/
 The “source” for your site should be README.md file, written with Markdown
-On the main page:
-Explain “growth mindset” in your own words
+<h1>On the main page:<h1/>
+<body>
+  <p>Explain “growth mindset” in your own words
 What is a growth mindset?
-try,try again. or
+try,try again. <b/> or
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
-
-Include 3 reminders to yourself of how to keep yourself in a growth mindset
-1. Challenges
-2. Obstacles
-3. Effort
-4. Critisizm
-5. The Success of Others
+<p/>
+Include <UL:>3 reminders to yourself of how to keep yourself in a growth mindset
+<b>1. Challenges<b/>
+<b>2. Obstacles<b/>
+<b>3. Effort<b/>
+<b>4. Critisizm<b/>
+<b>5. The Success of Others<b/>
 
 https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png
 
