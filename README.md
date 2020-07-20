@@ -13,6 +13,7 @@ The “source” for your site should be README.md file, written with Markdown
 On the main page:
 Explain “growth mindset” in your own words
 What is a growth mindset?
+try,try again. or
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 Include 3 reminders to yourself of how to keep yourself in a growth mindset
