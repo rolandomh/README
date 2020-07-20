@@ -1,6 +1,10 @@
 # README
 base notes for code
 
+<!DOCTYPE html>
+<html>
+<body>
+
 
 
 
@@ -11,10 +15,13 @@ Requirements
 Your site should exist at https://USERNAME.github.io/reading-notes/
 The “source” for your site should be README.md file, written with Markdown
 <h1>On the main page:<h1/>
-<body>
-  <p>Explain “growth mindset” in your own words
-What is a growth mindset?
-try,try again. <b/> or
+<h1>My First Heading</h1>
+<p>Explain “growth mindset” in your own words
+What is a growth mindset?</p>
+
+
+ 
+<p> strong>try,try again.<strong/> or
 A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 <p/>
 Include <UL:>3 reminders to yourself of how to keep yourself in a growth mindset
@@ -25,8 +32,11 @@ Include <UL:>3 reminders to yourself of how to keep yourself in a growth mindset
 <b>5. The Success of Others<b/>
 
 
-<hyperlink:img src
+<i><hyperlink:img src <i/>
 https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png
+
+</body>
+</html>
 
 
 Utilize at least 5 different features of Markdown to structure your page
