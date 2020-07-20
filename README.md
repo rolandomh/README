@@ -15,7 +15,7 @@ Requirements
 Your site should exist at https://USERNAME.github.io/reading-notes/
 The “source” for your site should be README.md file, written with Markdown
 <h1> YUP THATS A HEADING:<h1/>
-<h2>nonsequitor heading!</h2>
+<h2>nonsequitor heading2!</h2>
 <p>Explain “growth mindset” in your own words
 What is a growth mindset?</p>
 
