@@ -31,7 +31,7 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 <b>3. Effort</b>
 <b>4. Critisizm</b>
 <b>5. The Success of Others</b>
-
+ </Ul>
 <p/>
 <i><hyperlink:img src </i>
 https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png
