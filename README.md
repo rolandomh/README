@@ -24,6 +24,8 @@ Include <UL:>3 reminders to yourself of how to keep yourself in a growth mindset
 <b>4. Critisizm<b/>
 <b>5. The Success of Others<b/>
 
+
+<hyperlink:img src
 https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png
 
 
