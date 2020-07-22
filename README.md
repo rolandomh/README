@@ -11,7 +11,7 @@ base notes for code
 
 
 
-Requirements
+Requirement
 Your site should exist at https://USERNAME.github.io/reading-notes/
 The “source” for your site should be README.md file, written with Markdown
 <h1> YUP THATS A HEADING:<h1/>
