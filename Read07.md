@@ -1,1 +1,0 @@
-Markdown: a language that you can use to add elements to plaintext documents.
