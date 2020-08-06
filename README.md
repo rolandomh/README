@@ -8,9 +8,14 @@ Include a description of what this web site is about:
 
 
 ### Table of Contents
-class 01
 
-Include a table of contents for 15 daily reading assignments
+* [class 01]( /class01.md)
+* [class 02]( /class02.md)
+
+
+
+
+<!--Include a table of contents for 15 daily reading assignments
 
 
 
