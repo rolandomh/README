@@ -1,10 +1,11 @@
+# 201 d66
 # Read03.md
 Reading notes and Repo updates from an aspiring WebDev.
 
 ## #Reading03
 ###From the Duckett HTML book:
 ###Chapter 3: “Lists” (pp.62-73)
-* Type copy direct from hardcopy:
+* Type-copy direct from hardcopy:
 There are three types of HTML lists: ordered, unordered, and definition.Ordered lists are lists where each item in the list is numbered. 
 For example, the list might be a set of steps for a recipe that must be performed in order, 
 or a legal contract where each point needs to be identified by a section number.
