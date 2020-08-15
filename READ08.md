@@ -1,10 +1,10 @@
 
 # 201 d66
-# Read05.md
+# Read08.md
 Reading notes and Repo updates from an aspiring WebDev.
 ![Type-copy](https://wtf.tw/ref/duckett.pdf)
 
-### Reading05
+### Reading08
 ### From the Duckett HTML book:
 ####HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading):
 
