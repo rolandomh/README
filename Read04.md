@@ -1,6 +1,7 @@
 # 201 d66
 # Read04.md
 Reading notes and Repo updates from an aspiring WebDev.
+![Type-copy](https://wtf.tw/ref/duckett.pdf)
 
 ### Reading04
 ### From the Duckett HTML book:
@@ -12,15 +13,11 @@ id  attribute to target elements within a page that can be linked to.
 'target' command IS pop-up.To link to a ﬁle in the sa me folder, just use the ﬁle name. (Nothing else is n eeded.)
 For a child folder, use the name of the child folder, followed by a forward slash, then the ﬁle name. Use the name of the child folder, followed by a for ward slash, 
 then the name of the grand child folder, followed by another for ward slash, then the ﬁle name.
-Use .. /  to ind icate the folder above the current one, then follow it with the ﬁle name. Repeat the .. /  to indicate that you want to go up two folders (rather than one),
+Use .. /  to indicate the folder above the current one, then follow it with the ﬁle name. Repeat the .. /  to indicate that you want to go up two folders (rather than one),
 then follow it with the ﬁle name.
-To link to music reviews from the music homepage: <a hre f="reviews.html">Reviews </a >
-To link to music listings from the homep age: <a hre f=" music/listings.h ml">Listing s </a >
-To link to DVD reviews from the homepage: <a href="movies/dvd/reviews.html">Reviews</a>
-To link to the home page from the music reviews: <a href="../index.html">Home</a> 
-To link to the home page from the DVD reviews: <a href="../../index.html">Home</a
 
-This invol ves learning abo ut how desi gning for a s creen can be different to designing for other medium s (such as print). In this chapter we will: 
+This invol ves learning abo ut how desi gning for a s creen can be different to designing for other medium s (such as print). 
+In this chapter we will: 
 Explore different ways to position elements using normal  
 ●ﬂow, relative positioning , absolute position ing and ﬂoats .Discover how various devices have different screen sizes 
 ●and resolution, and how this affects the design process. clear andn the difference between ﬁxed width and liquid layouts,  
@@ -31,6 +28,33 @@ Explore different ways to position elements using normal
 
 ### From the Duckett JS book:
 ### Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
-
+Functions let you group a series of statements together to perform a
+specific task. If different parts of a script repeat the same task, you can
+reuse the function (rather than repeating the same set of statements). 
+//example code at html level: 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Basic Function</title>
+<linkrel ="stylesheet" href="css/ c03.css" />
+</head>
+<body>
+<hl>TravelWorthy</ hl>
+<div id="message">We lcome to our site! </ div>
+<script src="js/ basic-function .js"></script>
+</ body>
+</ html> 
+//example code at js level: 
+var msg = 'Sign up to receive our newsletter for 10% off!';
+function updateMessage() {
+var el = document.getElementByld('message'};
+el .textContent = msg;
+}
+updateMessage(}; 
 ### Article: “6 Reasons for Pair Programming”
-```
+1. so you have extra eyes.
+2. so you have extra hands.
+3. so you have extra brains.
+4. so theres a higher statistical chance you'll have some "sense" between the two assumed huemans. 
+5. see reason 6.
+6. see reason 1. (this is a loop and call back.HOLLAH!)
