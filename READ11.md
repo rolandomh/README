@@ -19,24 +19,24 @@ Controlling the size and alignment of your images using CSS keeps rules that aff
  class= "small" alt="Magnolia" / >
  
  #### CSS
- img.large {
+ img. large {
 width: 500px;
-height: 500px;}
-img.medium {
-width: 250px;
-height: 250px;}
-img.small {
-width: 100px;
-height: 100px;}
+height: 500px ; }
+img .medium {
+width : 250px ;
+height : 250px ; }
+img.s mall {
+width: 100px ;
+height: 100px ; }
 
 #### CSS 
 p {
-background-image: url("images/pattern.gif");}
+background- image: url(" images/pattern.g if") ; }
 
 *or*
  
  body {
-background-image: url("images/pattern.gif");}
+background-image: url(" images/pattern.gi f"); }
 
 You can specify the dimensions of images using CSS. This is very helpful when you use the same sized images on several pages of your site.
 X Images can be aligned both horizontally and vertically using CSS.
