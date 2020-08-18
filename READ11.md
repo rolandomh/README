@@ -4,7 +4,7 @@
 Reading notes and Repo updates from an aspiring WebDev.
 ![Type-copy](https://wtf.tw/ref/duckett.pdf)
 
-### Reading10
+### Reading11
 ### From the Duckett HTML book:
 ### Chapter 16: “Images” (pp.406-427)
 
