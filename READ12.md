@@ -1,37 +1,38 @@
 # 201 d66
 # Read12.md
 Reading notes and Repo updates from an aspiring WebDev.
-![Type-copy](https://wtf.tw/ref/duckett.pdf)
+[Type-copy](https://wtf.tw/ref/duckett.pdf)
 
 ### Reading12
 list of links @ canvas
 *Assorted bits of documentation:*
 #### Read this article on the Chart.js API.
 
-![ChartsJsAPI](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+[ChartsJsAPI](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 #### Chart.js docs: You’ll be needing these!
 
-![ChartsJs](https://www.chartjs.org/docs/latest/)
+[ChartsJs](https://www.chartjs.org/docs/latest/)
 
 ***Read the following articles on the Canvas API.***
 #### Basic usage
 
-![BasicUse](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+[BasicUse](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 
 #### Drawing shapes with canvas
 
-![Drawing](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+[Drawing](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 
 #### Applying styles and colors
 
-![style-color](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+[style-color](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 
 #### Drawing text
 
-![drawing-text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+[drawing-text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 
-
+http://github.com - automatic!
+[GitHub](http://github.com)
 
 
 ### 
