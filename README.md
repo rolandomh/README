@@ -21,34 +21,37 @@ I am a 10 year in the military servicemen,  in small teams the entire time, whic
  
 ### Work / Military Experience  
  
-Foreman/Supervisor    	   
+#### Foreman/Supervisor    	   
 B&C Tower  –   Auburn, WA 	   
 January 2020  –  March 2020 	   	 
 Close out packages and Small-cell site maintenance.  
-  Foreman/Safety manager   
+#### Foreman/Safety manager   
 TRIAD Group - Bellevue, WA   
 January 2019 to December 2019   
 Troubleshooting and building platforms and telecommunications systems to be implemented at heights above but not limited to 300ft.   Reviewing and training safe climbing standards as well as high altitude rescue and rigging plans.   
-  Foreman/Safety Manager   
+#### Foreman/Safety Manager   
 SAC Wireless LLC - Renton, WA  
 October 2017 to November 2018  
 Establishing safety standards, construction parameters and field operations safety management.   
-  Tower Technician II / III   
+#### Tower Technician II / III   
 CapStone Solutions - Redmond, WA   
 March 2014 to October 2017   
 Telecommunications troubleshooting and site implementation. (Verizon)   
-  Tower Technician I/II   
+#### Tower Technician I/II   
 Phoenix of Tennessee - Nashville, TN   
 January 2010 to November 2013  
 Telecommunications implementation and tower maintenance.  
- USAR 52d2 / 25f2
+#### USAR 52d2 / 25f2
 End of contract / Honorable  	Rank: NCO  
 May 1999 to June 2009         Communications 
   
 ### Education / Certifications    
 	 	 	 
-Programming. Code Fellows - Seattle, WA June 2020 to ~December 2020  
-Biology. Valparaiso University - Valparaiso, IN August 2010 to December 2013 
+Programming. Code Fellows 
+Seattle, WA June 2020 to ~December 2020  
+
+Biology. Valparaiso University 
+Valparaiso, IN August 2010 to December 2013 
 
 Telecommunications/Satellite/Network : USAR Signal School : Intelligence Acquisitions/Security logistics : USAR Intelligence School : Power generation/Electrical engineering : OSHA 30 : Aerial Lift/Bucket Truck awareness/Tower : AT&T 502 Awareness Standard : Wireless quality installation : Systems Troubleshooting : CPR/First Aid : AED : Bloodborne Pathogens : Fire Safety : Crane/Capstan Hoist Signaler : Wireless Signaler : Tower Climber : Rigging : Forklift Operator : Excavation Trenching safety : Wireless rope access technician : Emergency rescue : RF awareness : NFPA 70 E : Security logistics : Environmental health & safety : Anritsu sweep/pimm  
  
@@ -72,17 +75,26 @@ Telecommunications/Satellite/Network : USAR Signal School : Intelligence Acquisi
 ### Professional Etiquette Analysis: 
 The following is a summary of my plan to make professional improvements. Leveraging my top and bottom three competencies/strengths; From the provided self-assessment. I’ll work to Incorporate any feedback given when possible.
 * [exmpl]( https://docs.google.com/document/d/17mxo0nz_ANeLYWpYe42vG4OBAEhc-vTH _NNlLMRd0GQ/edit?usp=sharing)
+
 ## Top 4: 
 Business Acumen Competency Demonstrates keen understanding of business operations and customer needs. Uses this to drive the organization towards broader business objectives, in consistent alignment with company mission and vision.
- Craft Competency Demonstrates proficiency in all aspects of their chosen craft, including tools, technologies, process and methodology.
- Quality Competency Demonstrates ability to effectively assess quality of work including that of their own and others, using keen attention to detail. Effectively identifies the root cause of problems with rigor, provides and applies solutions that prevent recurrence. Leadership Competency Demonstrates proficiency in influencing others by modeling accountability & integrity, building relationships, and mentoring others. 
-## Bottom 3: 
+
+Craft Competency Demonstrates proficiency in all aspects of their chosen craft, including tools, technologies, process and methodology.
+
+Quality Competency Demonstrates ability to effectively assess quality of work including that of their own and others, using keen attention to detail. Effectively identifies the root cause of problems with rigor, provides and applies solutions that prevent recurrence. 
+
+Leadership Competency Demonstrates proficiency in influencing others by modeling accountability & integrity, building relationships, and mentoring others.
+ 
+ ## Bottom 3: 
 Results Competency Demonstrates proficiency in planning and prioritizing to overcome obstacles, solve problems, and achieve results on schedule. 
-Communication Competency Demonstrates proficiency in written and verbal communications, active listening, and exchanging ideas/knowledge. 
-● Reading/Writing proficiency is theAbility to sum up complex ideas, problems, or solutions with effective style. Ability to comprehend task instructions, bug reports, and emails. Locates and understands internal and external documentation. 
-Note: This Sub-point is not lost on me; Engagement and influencing the audience with clarity and persuasiveness as not lost in concept or in practice. 
-Growth Mindset Competency Demonstrates commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback. 
-● handling ambiguity proficiency is nonexistent. This simply defies all logic to task completion for me. Forced ambiguity especially is an issue I am working on. There is a cognitive disconnect in this with my Military training and field experience.
+
+Communication Competency Demonstrates proficiency in written and verbal communications, active listening, and exchanging ideas/knowledge.
+	● Reading/Writing proficiency is theAbility to sum up complex ideas, problems, or solutions with effective style. Ability to comprehend task instructions, bug reports, and emails. Locates and understands internal and external documentation. 
+	
+**Note: This Sub-point is not lost on me; Engagement and influencing the audience with clarity and persuasiveness as not lost in concept or in practice.**
+
+Growth Mindset Competency Demonstrates commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback.
+	● handling ambiguity proficiency is nonexistent. This simply defies all logic to task completion for me. Forced ambiguity especially is an issue I am working on. There is a cognitive disconnect in this with my Military training and field experience.
 
 
 
