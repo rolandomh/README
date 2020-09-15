@@ -9,6 +9,7 @@ I am a 10 year in the military servicemen,  in small teams the entire time, whic
 
 ### Table of Contents 301
 
+* [read02](https://github.com/rolandomh/seattle-301d66)
 * [read04](https://github.com/rolandomh/301READING-NOTES/blob/master/Read04.md)
 * [read03](https://github.com/rolandomh/301READING-NOTES/blob/master/Read03.md)
 
