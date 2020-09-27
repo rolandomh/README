@@ -3,9 +3,7 @@
 * [LinkdIn](https://www.linkedin.com/in/romh81)
 * [InstArt](https://www.instagram.com/romh_art)
 
-My name is Rolando Haynes. 
-I’ve been in the telecommunications industry for 20+ years. Im a crafter and fixer of things.
-I am a 10 year in the military servicemen,  in small teams the entire time, which means I’m primed to like having hard conversations; staying solution oriented in life as mantra and practice; And if you wanted to say I had a product it would be troubleshooting and refining issues to smaller more palpable and actionable parts.  And then getting them done… breaking down a project into information packets for transmission…from hundreds of vertical feet up a tower troubleshooting network connectivity issues to now learning code in hopes to find more accountability in the work place and autonomy in my life. Thanks for reading all the way through and please inquire with me directly with any inquiry you have. 
+My name is Rolando Haynes. I’ve been in the telecommunications industry for 20+ years (both in and out of the military). I'm a painter and fixer of things as well as accustomed to working in small teams. This means I like having hard conversations; helping me stay solution-oriented as a practice.  My most valuable "product" is staying level-headed in troubleshooting and refining issues to smaller more palpable, and actionable parts. Getting them done. If that means breaking down a project into information packets for transmission at the network level, from hundreds of vertical feet up a tower with connectivity issues, or at the programming level. I'll be able to provide, assist, and gain more autonomy thorough accountability. Thanks for reading and please inquire with me directly with any inquiry you have.
 
 ### Table of Contents 301
 
