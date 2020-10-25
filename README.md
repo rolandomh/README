@@ -100,6 +100,6 @@ Communication Competency Demonstrates proficiency in written and verbal communic
 **Note: This Sub-point is not lost on me; Engagement and influencing the audience with clarity and persuasiveness as not lost in concept or in practice.**
 
 Growth Mindset Competency Demonstrates commitment to continuous improvement through adaptability, optimism, curiosity, and openness to feedback.
-	● handling ambiguity proficiency is nonexistent. This simply defies all logic to task completion for me. Forced ambiguity especially is an issue I am working on. There is a cognitive disconnect in this with my Military training and field experience.
+	● handling ambiguity proficiency is nonexistent. This simply defies all logic to task completion for me. Forced ambiguity especially is an issue I am working on.
 
 
