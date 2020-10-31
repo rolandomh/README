@@ -11,7 +11,7 @@ I am a 10 year in the military servicemen,  in small teams the entire time, whic
 
 * [read02](https://github.com/rolandomh/seattle-301d66)
 * [read03](https://github.com/rolandomh/301READING-NOTES/blob/master/Read03.md)
-* [read04](https://github.com/rolandomh/301READING-NOTES/blob/master/Read04.md)
+* [read04](https://github.com/rolandomh/lab01/blob/master/README04.md)
 * [read05](https://github.com/rolandomh/data-structures-and-algorithms/blob/master/Read05-HerokuDeployment.md)
 * [read06](https://github.com/rolandomh/data-structures-and-algorithms/blob/master/code-challenges/Read06-Node-Express-API.md)
 * [read07](https://github.com/rolandomh/data-structures-and-algorithms/blob/master/Read-07-ApiContinued.md)
